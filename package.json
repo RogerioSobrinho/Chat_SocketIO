@@ -1,0 +1,25 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "My First socket.io app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogerioSobrinho/Chat_SocketIO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RogerioSobrinho/Chat_SocketIO/issues"
+  },
+  "homepage": "https://github.com/RogerioSobrinho/Chat_SocketIO#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "socket.io-client": "^2.1.1",
+    "socketio": "^1.0.0"
+  }
+}
